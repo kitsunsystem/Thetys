@@ -1,0 +1,455 @@
+/* ==========================================================================
+   Centre Thetys — fondations : jetons de design, typographie, base
+   ========================================================================== */
+
+@font-face {
+  font-family: "Fraunces";
+  src: url("/assets/fonts/fraunces-normal.woff2") format("woff2-variations");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Fraunces";
+  src: url("/assets/fonts/fraunces-italic.woff2") format("woff2-variations");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Manrope";
+  src: url("/assets/fonts/manrope.woff2") format("woff2-variations");
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* Couleurs de la marque */
+  --ink: #1a2942;
+  --ink-deep: #0e1828;
+  --ink-900: #132036;
+  --ink-soft: #4d566a;
+  --mist: #8d99ad;
+  --pearl: #c4ccd8;
+  --gold: #c9a978;
+  --gold-light: #e4d1b0;
+  --gold-text: #7d5f35;
+  --ivory: #faf6f1;
+  --sand: #f2ebdf;
+  --sand-deep: #e8dece;
+  --white: #fffdf9;
+  --line: rgba(26, 41, 66, 0.13);
+  --line-light: rgba(250, 246, 241, 0.16);
+
+  /* Typographie */
+  --f-serif: "Fraunces", "Iowan Old Style", Georgia, serif;
+  --f-sans: "Manrope", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --fs-hero: clamp(2.9rem, 7.2vw, 8rem);
+  --fs-display: clamp(2.5rem, 5.6vw, 6rem);
+  --fs-h2: clamp(2.1rem, 4.2vw, 4.4rem);
+  --fs-h3: clamp(1.35rem, 1.9vw, 1.85rem);
+  --fs-lead: clamp(1.08rem, 1.3vw, 1.3rem);
+  --fs-body: 1.0625rem;
+  --fs-small: 0.875rem;
+  --fs-xs: 0.75rem;
+
+  /* Mise en page */
+  --gutter: clamp(1.25rem, 4vw, 4rem);
+  --max: 1480px;
+  --section: clamp(5.5rem, 11vw, 10.5rem);
+  --radius: 22px;
+  --radius-lg: clamp(22px, 3vw, 40px);
+  --header-h: 84px;
+
+  /* Mouvement */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.76, 0, 0.24, 1);
+  --t-fast: 0.35s;
+  --t-med: 0.7s;
+
+  color-scheme: light;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--header-h) + 1rem);
+}
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: clip;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--ivory);
+  color: var(--ink);
+  font-family: var(--f-sans);
+  font-size: var(--fs-body);
+  line-height: 1.65;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern", "liga";
+  overflow-x: clip;
+}
+
+/* grain photographique très léger */
+body::after {
+  content: "";
+  position: fixed;
+  inset: -50%;
+  z-index: 200;
+  pointer-events: none;
+  opacity: 0.045;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+img,
+picture,
+video,
+svg {
+  display: block;
+  max-width: 100%;
+}
+img,
+video {
+  height: auto;
+}
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+  background: none;
+  border: 0;
+  padding: 0;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+p {
+  margin: 0 0 1.1em;
+}
+p:last-child {
+  margin-bottom: 0;
+}
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+strong {
+  font-weight: 650;
+}
+::selection {
+  background: var(--gold);
+  color: var(--ink-deep);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  font-family: var(--f-serif);
+  font-weight: 300;
+  font-optical-sizing: auto;
+  letter-spacing: -0.02em;
+  line-height: 1.04;
+  text-wrap: balance;
+}
+h1 em,
+h2 em,
+h3 em,
+.serif em {
+  font-style: italic;
+  font-weight: 300;
+}
+.serif {
+  font-family: var(--f-serif);
+  font-weight: 300;
+  letter-spacing: -0.015em;
+}
+
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.skip-link {
+  position: fixed;
+  left: 1rem;
+  top: -4rem;
+  z-index: 1000;
+  padding: 0.8rem 1.2rem;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--ivory);
+  font-weight: 600;
+  transition: top 0.3s var(--ease-out);
+}
+.skip-link:focus {
+  top: 1rem;
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Grille & conteneurs
+   -------------------------------------------------------------------------- */
+.wrap {
+  width: 100%;
+  max-width: calc(var(--max) + var(--gutter) * 2);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+.wrap--narrow {
+  max-width: calc(980px + var(--gutter) * 2);
+}
+.wrap--text {
+  max-width: calc(760px + var(--gutter) * 2);
+}
+.section {
+  position: relative;
+  padding-block: var(--section);
+}
+.section--tight {
+  padding-block: calc(var(--section) * 0.6);
+}
+.section--sand {
+  background: var(--sand);
+}
+.section--white {
+  background: var(--white);
+}
+.section--dark {
+  background: var(--ink-deep);
+  color: var(--ivory);
+}
+.section--dark .eyebrow {
+  color: var(--gold);
+}
+.section--dark .lead,
+.section--dark .muted {
+  color: rgba(250, 246, 241, 0.72);
+}
+.section--rounded {
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+}
+
+.grid {
+  display: grid;
+  gap: clamp(1.25rem, 2.5vw, 2.5rem);
+}
+.grid--2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.grid--3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.grid--4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+@media (max-width: 1080px) {
+  .grid--4 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .grid--3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 720px) {
+  .grid--2,
+  .grid--3,
+  .grid--4 {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.split {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: clamp(2rem, 6vw, 7rem);
+  align-items: center;
+}
+.split--top {
+  align-items: start;
+}
+.split--wide-left {
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+}
+.split--wide-right {
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+}
+@media (max-width: 900px) {
+  .split,
+  .split--wide-left,
+  .split--wide-right {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Typographie utilitaire
+   -------------------------------------------------------------------------- */
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75em;
+  margin-bottom: 1.6rem;
+  font-family: var(--f-sans);
+  font-size: var(--fs-xs);
+  font-weight: 650;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold-text);
+  line-height: 1.3;
+}
+.eyebrow::before {
+  content: "";
+  width: 1.9rem;
+  height: 1px;
+  background: currentColor;
+  opacity: 0.7;
+}
+.eyebrow--plain::before {
+  display: none;
+}
+.h-hero {
+  font-size: var(--fs-hero);
+  line-height: 0.96;
+  letter-spacing: -0.035em;
+}
+.h-display {
+  font-size: var(--fs-display);
+  line-height: 0.98;
+  letter-spacing: -0.03em;
+}
+.h2 {
+  font-size: var(--fs-h2);
+}
+.h3 {
+  font-size: var(--fs-h3);
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+.lead {
+  font-size: var(--fs-lead);
+  line-height: 1.55;
+  color: var(--ink-soft);
+  max-width: 40em;
+}
+.muted {
+  color: var(--ink-soft);
+}
+.small {
+  font-size: var(--fs-small);
+}
+.gold {
+  color: var(--gold);
+}
+.center {
+  text-align: center;
+}
+.center .lead {
+  margin-inline: auto;
+}
+.mt-s {
+  margin-top: 1.5rem;
+}
+.mt-m {
+  margin-top: clamp(2rem, 4vw, 3.5rem);
+}
+.mt-l {
+  margin-top: clamp(3rem, 7vw, 6rem);
+}
+
+.s-head {
+  margin-bottom: clamp(2.5rem, 6vw, 5rem);
+}
+.s-head .h2 + .lead,
+.s-head .h-display + .lead {
+  margin-top: 1.6rem;
+}
+.s-head--split {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: clamp(1.5rem, 5vw, 6rem);
+  align-items: end;
+}
+.s-head--split .lead {
+  margin: 0;
+}
+@media (max-width: 900px) {
+  .s-head--split {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+.s-head--center {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.s-head--center .lead {
+  margin-inline: auto;
+}
+
+.link-u {
+  position: relative;
+  display: inline;
+  background: linear-gradient(currentColor, currentColor) 0 100% / 100% 1px no-repeat;
+  transition: background-size 0.6s var(--ease-out);
+  padding-bottom: 2px;
+}
+.link-u:hover {
+  background-size: 0% 1px;
+  background-position: 100% 100%;
+}
+.prose a,
+.rich a {
+  color: inherit;
+  background: linear-gradient(var(--gold), var(--gold)) 0 100% / 100% 1px no-repeat;
+  padding-bottom: 1px;
+  transition: background-size 0.5s var(--ease-out), color 0.3s;
+}
+.prose a:hover,
+.rich a:hover {
+  background-size: 100% 100%;
+  color: var(--ink-deep);
+}
+.section--dark .rich a:hover {
+  color: var(--ink-deep);
+}

@@ -1,0 +1,166 @@
+{
+  "index": {
+    "seoTitle": "Offres du moment",
+    "seoDescription": "Les offres du moment du Centre Thetys à Antibes, Cannes Le Cannet et Pégomas : Black Friday visage et corps, épilation laser à Pégomas. Diagnostic offert.",
+    "eyebrow": "Offres du moment",
+    "title": "Des conditions <em>privilégiées.</em>",
+    "intro": "Nos offres en cours, dans nos trois centres. Tout commence par un diagnostic offert, sans engagement."
+  },
+  "items": [
+    {
+      "slug": "black-friday",
+      "until": "2026-11-14",
+      "image": "bf27-visage-soin-cabine",
+      "seoTitle": "Black Friday, visage jusqu’à -20 % et corps jusqu’à -50 %",
+      "seoDescription": "Black Friday 2026 au Centre Thetys, du 2 au 14 novembre : visage jusqu’à -20 % et corps jusqu’à -50 % sur une sélection de soins. Diagnostic offert à Antibes, Cannes Le Cannet et Pégomas.",
+      "card": "Visage jusqu’à -20 % · Corps jusqu’à -50 % · Du 2 au 14 novembre",
+      "eyebrow": "Black Friday 2026 · Centre Thetys",
+      "title": "Novembre, <em>rien que pour vous.</em>",
+      "dates": "Du 2 au 14 novembre",
+      "intro": "Pendant deux semaines, nos trois centres vous réservent des conditions privilégiées sur le visage et la silhouette. Tout commence par un diagnostic offert, sans engagement, à Antibes, Cannes Le Cannet ou Pégomas.",
+      "figures": [
+        { "label": "Visage, jusqu’à", "value": "-20 %" },
+        { "label": "Corps, jusqu’à", "value": "-50 %" },
+        { "label": "Diagnostic", "value": "Offert" }
+      ],
+      "checks": ["Diagnostic <strong>offert, 30 minutes</strong>", "Technologies <strong>certifiées CE</strong>", "Expertes <strong>diplômées</strong>", "Paiement <strong>en plusieurs fois</strong>"],
+      "universes": {
+        "eyebrow": "Deux univers",
+        "title": "Le visage ou la silhouette, <em>par où commencez-vous ?</em>",
+        "text": "Choisissez votre univers, puis votre centre au moment de réserver. Votre experte définit ensuite avec vous le protocole adapté et la remise qui s’applique à votre soin.",
+        "items": [
+          { "num": "01 · Visage", "label": "Jusqu’à", "value": "-20 %", "sub": "sur nos solutions anti‑âge", "text": "Une sélection de soins pour raffermir et lisser votre peau, sans chirurgie.", "list": ["Rides et ridules", "Relâchement et ovale du visage", "Perte d’éclat"], "cta": "Découvrir l’offre Visage", "href": "https://l.fresha.com/3q3mwz12s?utm_source=landing&utm_medium=site&utm_campaign=black-friday-2026", "image": "bf27-visage-soin-cabine" },
+          { "num": "02 · Corps", "label": "Jusqu’à", "value": "-50 %", "sub": "sur nos solutions minceur et silhouette", "text": "Des technologies ciblées pour accompagner votre objectif silhouette.", "list": ["Rondeurs localisées", "Fermeté de la peau", "Galbe et tonicité"], "cta": "Découvrir l’offre Corps", "href": "https://l.fresha.com/3b35wf1qs?utm_source=landing&utm_medium=site&utm_campaign=black-friday-2026", "image": "femme-corps-1" }
+        ]
+      },
+      "steps": {
+        "eyebrow": "Le premier rendez-vous",
+        "title": "Tout commence par <em>un diagnostic offert.</em>",
+        "text": "Trente minutes avec une experte, dans le centre de votre choix. Aucune pression, aucun engagement.",
+        "items": [
+          { "title": "Vous réservez", "text": "En ligne, en choisissant votre univers puis votre centre. Ou par téléphone si vous préférez." },
+          { "title": "Votre diagnostic", "text": "Votre experte fait le point sur vos attentes, analyse votre peau ou votre silhouette et définit le protocole adapté." },
+          { "title": "Vous décidez", "text": "Elle vous indique la remise qui s’applique à votre soin. Vous repartez avec un devis clair, libre de réfléchir." }
+        ]
+      },
+      "conditions": {
+        "eyebrow": "Vos conditions",
+        "title": "Black Friday, <em>du 2 au 14 novembre.</em>",
+        "list": [
+          "Visage, jusqu’à -20 % sur une sélection de solutions anti-âge",
+          "Corps, jusqu’à -50 % sur une sélection de solutions minceur et silhouette",
+          "Diagnostic de 30 minutes offert, sans engagement",
+          "Valable dans nos trois centres, Antibes, Cannes Le Cannet et Pégomas",
+          "Paiement en plusieurs fois possible, présenté lors du diagnostic"
+        ],
+        "legal": "Offre valable du 2 au 14 novembre 2026 dans les centres Thetys d’Antibes, de Cannes Le Cannet et de Pégomas. Les remises de 20 % sur le visage et de 50 % sur le corps sont des maximums, réservés à une sélection de soins. Le taux appliqué dépend du soin et du protocole défini lors du diagnostic."
+      },
+      "experts": {
+        "eyebrow": "Vos expertes",
+        "title": "Elles vous reçoivent <em>pour votre diagnostic.</em>",
+        "text": "Votre experte fait le point avec vous, définit votre protocole et vous indique la remise qui s’applique à votre soin.",
+        "people": [
+          { "name": "Pauline", "role": "Antibes & Pégomas", "image": "jpo-portrait-pauline", "alt": "Pauline, experte diagnostic du Centre Thetys Antibes et Pégomas" },
+          { "name": "Julie", "role": "Cannes Le Cannet", "image": "jpo-portrait-julie", "alt": "Julie, experte diagnostic du Centre Thetys Cannes Le Cannet" }
+        ]
+      },
+      "faq": [
+        { "q": "Jusqu’à quand dure le Black Friday ?", "a": "Du lundi 2 au samedi 14 novembre 2026 inclus, dans nos trois centres." },
+        { "q": "Quelle remise pour mon soin ?", "a": "Les remises de 20 % sur le visage et de 50 % sur le corps sont des maximums, réservés à une sélection de soins. Le taux dépend du soin et du protocole défini avec votre experte lors du diagnostic." },
+        { "q": "Le diagnostic est-il vraiment offert ?", "a": "Oui. Trente minutes avec une experte, dans le centre de votre choix, sans engagement. Vous repartez avec un protocole et un devis clair." },
+        { "q": "Dans quel centre puis-je en profiter ?", "a": "À Antibes, à Cannes Le Cannet et à Pégomas. Vous choisissez votre centre au moment de réserver." },
+        { "q": "Puis-je payer en plusieurs fois ?", "a": "Oui, le paiement en plusieurs fois est possible. Votre experte vous en présente les modalités lors du diagnostic." }
+      ],
+      "cta": { "title": "Et si novembre <em>commençait par vous ?</em>", "text": "Réservez votre diagnostic offert avant le 14 novembre et profitez de vos conditions Black Friday." }
+    },
+    {
+      "slug": "epilation-laser-pegomas",
+      "until": null,
+      "image": "laser-pegomas-moins-cher-quun-cafe",
+      "seoTitle": "Épilation laser à Pégomas : la 3ème zone à 1 €",
+      "seoDescription": "Pour 2 zones d’épilation laser achetées au Centre Thetys Pégomas, la 3ème zone est à 1 €. Laser diode dernière génération, diagnostic offert, tous phototypes.",
+      "card": "Pour 2 zones achetées, la 3ème zone à 1 € · au Centre Thetys Pégomas",
+      "eyebrow": "Épilation laser · Centre Thetys Pégomas",
+      "title": "Moins cher qu’un café. <em>La 3ème zone laser à 1 €.</em>",
+      "dates": "Uniquement à Pégomas",
+      "intro": "Vous rêviez d’une peau lisse toute l’année ? C’est le moment. Au Centre Thetys Pégomas, pour <strong>2 zones d’épilation laser</strong> achetées, la <strong>3ème zone est à 1 € seulement</strong>. Aisselles, maillot, demi-jambes, lèvre, dos : vous choisissez.",
+      "booking": "https://www.fresha.com/book-now/centre-thetys-pkvudiw2/services?lid=2773834&eid=4900641&oiid=sv:28969602&share=true&pId=2534453",
+      "figures": [
+        { "label": "Vos 2 zones", "value": "Tarif habituel" },
+        { "label": "Votre 3ème zone", "value": "1 €" }
+      ],
+      "checks": ["Diagnostic offert", "Laser dernière génération", "Tous phototypes"],
+      "offer": {
+        "eyebrow": "L’offre, en clair",
+        "title": "Deux zones au tarif habituel. <em>La troisième pour 1 €.</em>",
+        "text": "Vous choisissez deux zones à traiter. La troisième zone, la plus petite des trois, vous est facturée 1 € symbolique sur toute la durée de votre cure. Une offre réservée au Centre Thetys Pégomas.",
+        "detail": "Le laser diode dernière génération cible le poil à la racine, séance après séance, jusqu’à une peau durablement lisse. Adapté à tous les phototypes, peaux mates comprises.",
+        "list": [
+          "Diagnostic offert : analyse de votre pilosité, de votre peau et des zones à traiter",
+          "2 zones achetées, la 3ème (la plus petite) à 1 €",
+          "Praticiennes expertes, formées au protocole laser Centre Thetys",
+          "Paiement en plusieurs fois possible, devis clair au diagnostic"
+        ],
+        "example": {
+          "title": "Exemple : aisselles, maillot, lèvre",
+          "rows": [["Zone 1 · Aisselles", "Tarif habituel"], ["Zone 2 · Maillot", "Tarif habituel"], ["Zone 3 · Lèvre supérieure", "1 €"]],
+          "note": "Le tarif de chaque zone dépend de sa surface et du nombre de séances prévu à votre diagnostic. L’offre s’applique à la plus petite des trois zones choisies. Non cumulable avec d’autres offres en cours."
+        }
+      },
+      "zones": {
+        "eyebrow": "Les zones",
+        "title": "Vous choisissez <em>vos trois zones.</em>",
+        "text": "Petites, moyennes ou grandes : toutes les zones du visage et du corps sont traitables au laser. La plus petite des trois passe à 1 €.",
+        "items": [
+          { "name": "Aisselles", "size": "Petite zone" },
+          { "name": "Maillot", "size": "Classique ou intégral" },
+          { "name": "Lèvre supérieure", "size": "Petite zone" },
+          { "name": "Menton", "size": "Petite zone" },
+          { "name": "Demi-jambes", "size": "Grande zone" },
+          { "name": "Jambes entières", "size": "Grande zone" },
+          { "name": "Bras", "size": "Moyenne zone" },
+          { "name": "Dos", "size": "Grande zone" }
+        ]
+      },
+      "proof": {
+        "eyebrow": "La preuve en images",
+        "title": "Avant. Après. <em>Point final.</em>",
+        "text": "Résultat obtenu sur une vraie cliente du Centre Thetys Pégomas, zone aisselles.",
+        "before": { "image": "avant-epilation-laser-aisselles-centre-thetys", "alt": "Aisselle avant épilation laser au Centre Thetys Pégomas", "caption": "<strong>Avant</strong> · repousse dense, peau irritée par le rasage" },
+        "after": { "image": "apres-epilation-laser-aisselles-centre-thetys", "alt": "Aisselle lisse après épilation laser au Centre Thetys Pégomas", "caption": "<strong>Après</strong> · peau lisse et apaisée, sans repousse" },
+        "note": "Résultats non contractuels, variables selon les personnes. Photos publiées avec l’accord de notre cliente."
+      },
+      "steps": {
+        "eyebrow": "Comment ça marche",
+        "title": "Du diagnostic offert <em>à la peau lisse.</em>",
+        "text": "Une seule condition pour profiter de la 3ème zone à 1 € : démarrer votre cure laser au Centre Thetys Pégomas. Les séances, elles, s’étalent ensuite à votre rythme.",
+        "items": [
+          { "title": "Vous réservez", "text": "En ligne ou par téléphone. Précisez « offre 3ème zone à 1 € » au moment de la réservation." },
+          { "title": "Le diagnostic offert", "text": "Analyse de votre peau et de votre pilosité, choix des trois zones, test de sensibilité, devis clair. Sans engagement." },
+          { "title": "Votre cure démarre", "text": "Des séances espacées de 4 à 8 semaines selon la zone, planifiées selon votre agenda." },
+          { "title": "Votre 3ème zone à 1 €", "text": "La plus petite de vos trois zones est traitée sur toute la cure pour 1 € symbolique." }
+        ]
+      },
+      "trust": {
+        "eyebrow": "Pourquoi nous faire confiance",
+        "title": "Les Technologistes de Beauté, <em>depuis 2009.</em>",
+        "items": [
+          { "value": "Diode", "title": "Laser dernière génération", "text": "Une technologie efficace sur tous les phototypes, avec un système de refroidissement pour un confort maximal en séance." },
+          { "value": "0", "title": "Engagement au diagnostic", "text": "Le diagnostic est offert et sans obligation d’achat. Vous repartez avec un devis clair, zone par zone." },
+          { "value": "3", "title": "Centres sur la Côte d’Azur", "text": "Antibes, Cannes Le Cannet et Pégomas. Cette offre est réservée au centre de Pégomas." },
+          { "value": "1 €", "title": "Sur toute la cure", "text": "Le tarif symbolique de 1 € s’applique à l’ensemble des séances de votre troisième zone, dans la limite des créneaux disponibles." }
+        ]
+      },
+      "faq": [
+        { "q": "Comment fonctionne la 3ème zone à 1 € ?", "a": "Vous choisissez trois zones à traiter au laser. Les deux plus grandes sont facturées au tarif habituel, la plus petite des trois est facturée 1 € symbolique sur toute la durée de votre cure. Les séances se planifient ensuite à votre rythme. Offre valable uniquement au Centre Thetys Pégomas, non cumulable avec d’autres offres en cours." },
+        { "q": "Est-ce que c’est douloureux ?", "a": "Le laser diode que nous utilisons est équipé d’un système de refroidissement de la peau. La sensation est celle d’un léger picotement chaud, très supportable, y compris sur les zones sensibles comme le maillot ou la lèvre." },
+        { "q": "Puis-je faire du laser sur une peau bronzée ?", "a": "Notre laser est adapté à tous les phototypes, peaux mates comprises. En revanche, nous ne traitons pas une peau bronzée : si votre peau a pris le soleil, votre praticienne planifie la première séance une fois qu’elle a débronzé. Votre praticienne ajuste les paramètres lors du diagnostic et réalise un test de sensibilité avant la première séance." },
+        { "q": "Combien de séances faut-il ?", "a": "En général de 6 à 8 séances selon la zone, la couleur et la densité du poil, espacées de 4 à 8 semaines. Le nombre exact et le devis zone par zone vous sont présentés lors du diagnostic offert." },
+        { "q": "L’offre est-elle valable à Antibes et Cannes ?", "a": "Non, cette offre est réservée au Centre Thetys Pégomas. Nos centres d’Antibes et de Cannes Le Cannet proposent l’épilation laser au tarif habituel." },
+        { "q": "Jusqu’à quand l’offre est-elle valable ?", "a": "L’offre 3ème zone à 1 € est proposée au Centre Thetys Pégomas dans la limite des créneaux disponibles, et peut prendre fin sans préavis. Si vous hésitez, réservez votre diagnostic maintenant : il est offert et ne vous engage à rien." }
+      ],
+      "legal": "Offre valable au Centre Thetys Pégomas uniquement, pour toute cure d’épilation laser de 3 zones : la plus petite des trois zones est facturée 1 €. Non cumulable avec d’autres offres en cours, dans la limite des créneaux disponibles.",
+      "cta": { "title": "Une peau lisse toute l’année. <em>Ça commence par un diagnostic offert.</em>", "text": "Deux zones au tarif habituel, la troisième pour le prix d’un café. Il ne manque que vous, et un créneau à Pégomas." }
+    }
+  ]
+}

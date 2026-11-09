@@ -1,0 +1,68 @@
+/* ==========================================================================
+   États initiaux des animations (seulement quand le script est actif)
+   ========================================================================== */
+html.js:not(.reduce-motion) [data-reveal],
+html.js:not(.reduce-motion) [data-stagger] > * {
+  opacity: 0;
+  transform: translate3d(0, 34px, 0);
+}
+html.js:not(.reduce-motion) [data-split]:not(.is-split),
+html.js:not(.reduce-motion) [data-split-words]:not(.is-split) {
+  opacity: 0;
+}
+html.js:not(.reduce-motion) [data-hero-fade] {
+  opacity: 0;
+}
+html.js:not(.reduce-motion) [data-media-reveal] {
+  clip-path: inset(18% 8% 18% 8% round var(--radius));
+}
+html.is-ready [data-reveal].is-in,
+html.is-ready [data-stagger] > .is-in {
+  opacity: 1;
+  transform: none;
+}
+
+/* Lignes de texte découpées */
+.split-line {
+  display: block;
+  overflow: hidden;
+  padding-bottom: 0.08em;
+  margin-bottom: -0.08em;
+}
+.split-line__inner {
+  display: block;
+  will-change: transform;
+}
+.word {
+  display: inline-block;
+}
+
+/* Mots révélés au défilement (manifeste) */
+[data-scrub-words] .w {
+  opacity: 0.16;
+  transition: opacity 0.2s linear;
+}
+html.reduce-motion [data-scrub-words] .w,
+html:not(.js) [data-scrub-words] .w {
+  opacity: 1;
+}
+
+/* Arrivée d'une page */
+html.is-arriving .curtain {
+  visibility: visible;
+}
+
+/* Mouvement réduit */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .hero__video {
+    display: none;
+  }
+}

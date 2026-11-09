@@ -1,0 +1,21 @@
+{
+  // Configuration du déploiement sur Cloudflare Workers
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "centre-thetys",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-10-01",
+  "build": {
+    "command": "npm run build"
+  },
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "observability": {
+    "enabled": true
+  }
+  // Pour recevoir le formulaire de rappel, définir l'adresse du webhook :
+  // npx wrangler secret put CONTACT_WEBHOOK_URL
+}

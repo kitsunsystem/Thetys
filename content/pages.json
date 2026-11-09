@@ -1,0 +1,276 @@
+{
+  "home": {
+    "seoTitle": "Centre Thetys | Centre Esthétique Minceur & Visage Côte d’Azur",
+    "seoDescription": "Centre esthétique à Cannes, Antibes et Pégomas : minceur, soins du visage, cryolipolyse, HIFU et épilation définitive. Diagnostic offert.",
+    "h1": "Centre esthétique minceur, anti-âge et épilation définitive sur la Côte d’Azur",
+    "places": "Antibes · Cannes Le Cannet · Pégomas",
+    "title": "La haute technologie au service de <em>votre peau.</em>",
+    "intro": "Anti-âge, qualité de peau, minceur, épilation définitive. Des résultats visibles, sans chirurgie. Tout commence par 30 minutes de diagnostic, offertes.",
+    "stats": [
+      { "value": "17", "label": "années d’expertise" },
+      { "value": "3", "label": "centres sur la Côte d’Azur" },
+      { "value": "4,8", "label": "sur Google" },
+      { "value": "250+", "label": "avis vérifiés" }
+    ],
+    "diag": {
+      "eyebrow": "Diagnostics sur-mesure",
+      "title": "Chaque parcours commence par <em>la compréhension.</em>",
+      "text": "Répondez à 3 questions et recevez immédiatement sur WhatsApp le plan que nos expertes recommandent pour vous.",
+      "cards": [
+        { "kind": "visage", "time": "60s", "title": "Diagnostic Visage", "text": "La première étape pour découvrir ce dont votre peau a vraiment besoin.", "cta": "Découvrez votre diagnostic visage", "image": "image-site-diag-de-peau" },
+        { "kind": "corps", "time": "60s", "title": "Diagnostic Corps", "text": "Une analyse précise pour révéler les besoins de votre silhouette.", "cta": "Découvrez votre diagnostic corps", "image": "silhouette-02" }
+      ],
+      "expert": "Vous préférez un bilan complet avec une experte ? <a href=\"/diagnostic/#bilan\">30 minutes offertes, dans le centre de votre choix.</a>"
+    },
+    "needs": {
+      "eyebrow": "Par où commencer",
+      "title": "Qu’est-ce qui <em>vous amène ?</em>",
+      "items": [
+        { "num": "01", "title": "Anti-âge", "keywords": "Ovale · Rides · Double menton", "href": "/besoins/peau-plus-jeune/", "image": "peau-plus-jeune" },
+        { "num": "02", "title": "Peau", "keywords": "Éclat · Taches de l’été · Imperfections", "href": "/besoins/peau-plus-belle/", "image": "peau-plus-belle" },
+        { "num": "03", "title": "Silhouette", "keywords": "Ventre · Cellulite · Raffermir", "href": "/besoins/silhouette/", "image": "silhouette" },
+        { "num": "04", "title": "Épilation", "keywords": "Laser · Électrolyse · Poils blancs", "href": "/besoins/pilosite/", "image": "seance-electrolyse-haute-frequence-centre-thetys" },
+        { "num": "05", "title": "Cheveux", "keywords": "Densité · Repousse", "href": "/soins/microneedling-cheveux/", "image": "micro-meso-cheveux" }
+      ],
+      "badge": { "title": "CE Medical", "text": "Chaque technologie est certifiée par les autorités de santé." }
+    },
+    "plateau": {
+      "eyebrow": "Les technologistes de beauté",
+      "title": "Un plateau technique <em>unique</em> sur la Côte d’Azur.",
+      "text": "Nous sélectionnons les technologies les plus efficaces du marché, et nous les combinons dans des protocoles sur mesure établis lors de votre diagnostic.",
+      "list": [
+        { "num": "01", "title": "HIFU", "text": "lifting sans chirurgie", "href": "/soins/hifu/" },
+        { "num": "02", "title": "Lift coréen au fil de collagène", "text": "effet combleur", "href": "/soins/lift-coreen/" },
+        { "num": "03", "title": "Jet Peel", "text": "infusion sans aiguille", "href": "/soins/jet-peel/" },
+        { "num": "04", "title": "Cosmelan · Peelings mesoestetic", "text": "taches et éclat du teint", "href": "/soins/cosmelan/" },
+        { "num": "05", "title": "Cryolipolyse V2 · Icoone Laser · V-Core · iPulse", "text": "corps et silhouette", "href": "/soins/cryolipolyse/" }
+      ],
+      "featured": ["hifu", "lift-coreen", "jet-peel", "cosmelan", "peelings-mesoestetic", "microneedling", "plasma-pulse", "cryolipolyse", "icoone", "v-core", "ipulse", "electrolyse", "epilation-laser", "biologique-recherche"]
+    },
+    "marquee": ["HIFU", "Lift coréen", "Jet Peel", "Cosmelan", "Plasma Pulse", "Microneedling", "Biologique Recherche", "Cryolipolyse V2", "Icoone Laser", "V-Core", "Radiofréquence CORE", "iPulse 5.1"],
+    "proof": {
+      "eyebrow": "Résultats réels",
+      "title": "La preuve, <em>avant le discours.</em>",
+      "text": "Résultat réel HIFU sur une cliente. Photos de nos clientes, protocole nommé : cryolipolyse, HIFU, lift coréen, Jet Peel.",
+      "note": "Résultats non contractuels, variables selon les personnes."
+    },
+    "reviewsTitle": "Elles en parlent <em>mieux que nous.</em>",
+    "film": {
+      "eyebrow": "En cabine",
+      "title": "Le soin visage <em>sur-mesure.</em>",
+      "text": "Un moment rien qu’à vous, dans un univers pensé pour votre bien-être : les couleurs, les matériaux, l’éclairage de nos trois centres sont reconnaissables et choisis pour vous."
+    },
+    "faq": {
+      "eyebrow": "Vos questions",
+      "title": "Tout ce qu’on nous demande <em>en diagnostic.</em>",
+      "items": [
+        { "q": "HIFU ou lift coréen pour raffermir le visage ?", "a": "Le HIFU cible le relâchement profond par ultrasons focalisés. Le lift coréen au fil de collagène comble et redensifie en surface, avec un effet immédiat. Le diagnostic détermine la meilleure option, parfois les deux en synergie." },
+        { "q": "Mes taches de l’été vont-elles partir ?", "a": "L’automne est la bonne saison pour les traiter, le bronzage s’estompe et l’exposition au soleil diminue. Selon le type de taches, le diagnostic oriente vers le protocole dépigmentant Cosmelan, un peeling mesoestetic ou le Jet Peel. La protection solaire quotidienne fait partie du protocole." },
+        { "q": "Le diagnostic offert, comment ça se passe ?", "a": "30 minutes avec une experte dans le centre de votre choix : analyse de votre besoin, essai possible, protocole personnalisé et devis clair. Sans engagement." },
+        { "q": "Quel soin pour perdre du ventre sans chirurgie ?", "a": "La cryolipolyse V2 détruit les cellules graisseuses par le froid, sans aiguille ni éviction sociale. Selon votre profil, le diagnostic peut orienter vers l’iPulse ou le V-Core en complément. Disponible à Antibes, Cannes Le Cannet et Pégomas." },
+        { "q": "Combien coûte une cure ?", "a": "Les séances démarrent à 42 € (LED) et les cures bénéficient de formules d’abonnement et de tarifs dégressifs, avec paiement en 4 fois sans frais. Chaque protocole fait l’objet d’un devis clair et sans surprise, remis lors du diagnostic offert." },
+        { "q": "La cryolipolyse est-elle douloureuse ?", "a": "Non. Une sensation de froid intense les premières minutes, puis la zone s’anesthésie naturellement. La séance dure environ une heure et vous reprenez vos activités immédiatement, sans éviction sociale." },
+        { "q": "Combien de séances avant de voir des résultats ?", "a": "Cela dépend du soin : la cryolipolyse montre ses effets 6 à 12 semaines après une séance unique, les soins visage comme le Jet Peel donnent un éclat immédiat, et les protocoles corps type Icoone ou V-Core s’apprécient en cure. Votre diagnostic précise le calendrier attendu." },
+        { "q": "L’épilation laser fonctionne-t-elle sur les poils blancs ?", "a": "Le laser ne cible pas les poils blancs ou gris car il vise la mélanine. C’est pour cela que nos centres proposent aussi l’électrolyse haute fréquence, la seule méthode définitive efficace sur tous les poils, y compris blancs, gris et duvets." },
+        { "q": "J’ai fait des injections, puis-je quand même faire des soins ?", "a": "Oui, et certains soins subliment même vos résultats. Le Jet Peel, par exemple, infuse des actifs ciblés sans aiguille et prolonge les bénéfices de vos injections. Parlez-en simplement lors de votre diagnostic pour adapter le protocole." }
+      ]
+    },
+    "centres": {
+      "eyebrow": "Trois adresses sur la Côte d’Azur",
+      "title": "Votre centre, <em>tout près.</em>"
+    },
+    "cta": {
+      "title": "Et si on commençait <em>par vous écouter ?</em>",
+      "text": "30 minutes de diagnostic offertes, dans le centre de votre choix. Sans engagement."
+    }
+  },
+
+  "about": {
+    "seoTitle": "Qui sommes-nous ? Centre Thetys, technologistes de beauté Côte d’Azur",
+    "seoDescription": "Découvrez le Centre Thetys : plus de 17 ans d’expertise esthétique à Cannes, Antibes et Pégomas. Fondateurs passionnés, technologies de pointe, accompagnement personnalisé.",
+    "eyebrow": "Depuis 2009",
+    "title": "Qui sommes-<em>nous ?</em>",
+    "intro": "Depuis plus de 17 ans, notre mission est d’unir la technologie et les valeurs humaines, au service de la performance. Nous aidons ainsi les femmes et les hommes à mieux se sentir dans leur peau, durablement.",
+    "values": {
+      "eyebrow": "Nos valeurs",
+      "title": "Ce qui nous <em>guide.</em>",
+      "items": [
+        { "title": "Franchise", "text": "Avec bienveillance, le conseil doit être franc pour être efficace et ainsi atteindre la performance recherchée. La complaisance est un frein dans le domaine de l’esthétique, et nous l’avons bien compris. Nous disposons de différentes technologies pour vous apporter le meilleur résultat notamment grâce à notre Diagnostic by Centre Thetys Visage ou Minceur. Pour autant, nous n’hésitons pas à refuser certains actes ou à vous rediriger vers un chirurgien esthétique lorsque nous le pensons nécessaire." },
+        { "title": "Implication", "text": "Toujours dans un souci de réussite, nous pensons que nous devons vous accompagner vers l’atteinte des objectifs de manière globale et sur le long terme. Nos protocoles doivent être correctement expliqués, votre hygiène de vie doit être abordée et votre psychologie prise en compte. C’est notre longue expérience dans le domaine qui s’exprime ainsi." }
+      ]
+    },
+    "pillars": [
+      { "num": "01", "title": "Notre choix technologique", "text": "Nous sommes précurseurs sur la Côte d’Azur dans le secteur de la beauté technologique. Que ce soit pour la minceur, l’anti-âge ou l’épilation dite “définitive”, nous avons ainsi le recul nécessaire pour faire les meilleurs choix afin d’allier respect du corps et performance. Les innovations que nous sélectionnons ont un réel intérêt pour vous apporter des résultats parfois similaires à la chirurgie esthétique mais de manière moins invasive. Et en toute sécurité bien évidemment. Nous nous assurons de cela en faisant le choix de fournisseurs français. Les appareils sont fabriqués en France dès que cela est possible et certifiés CE Medical. Pour les mêmes raisons, nous utilisons de l’acide hyaluronique de qualité, fabriqué en Italie.", "cta": "Nos solutions", "href": "/soins/", "image": "technologie-hifu-ultrasons-focalises-centre-thetys" },
+      { "num": "02", "title": "Notre haut niveau d’expertise", "text": "Nos technologies sont sans risque à partir du moment où elles sont utilisées dans un cadre professionnel, parfaitement maîtrisées et avec pleine conscience des contre-indications éventuelles. Outre le geste, des réglages sont parfois nécessaires. C’est pourquoi, nous suivons régulièrement des formations délivrées par nos fournisseurs ou par un médecin. De plus, lors d’un recrutement, nos expertes diplômées suivent une formation interne complémentaire. Enfin, nous réalisons systématiquement un diagnostic sérieux avant chaque première séance, en nous appuyant sur des outils d’analyse professionnels pour aller encore plus loin.", "cta": "Le diagnostic", "href": "/diagnostic/", "image": "diag-analyse-ecran-pegomas" },
+      { "num": "03", "title": "Notre concept sensoriel", "text": "L’accueil et le plaisir de passer du temps en notre compagnie est fondamental. Notre identité englobe ces notions, c’est pourquoi nos trois centres proposent le même univers. Les couleurs, les matériaux, l’éclairage sont reconnaissables et choisis pour votre bien-être.", "cta": "Nos centres", "href": "/centres/", "image": "centre-thetys-pegomas2" }
+    ],
+    "founders": {
+      "eyebrow": "Nos fondateurs",
+      "title": "Une histoire <em>d’amour.</em>",
+      "text": "Le Centre Thetys c’est une histoire d’amour portée par un couple charismatique. Cette histoire commence par la passion de l’esthétisme vécu par sa cofondatrice Elodie Vial qui en fait son métier. L’histoire devient vibrante lorsque Alexandre Vial, qui avait commencé une belle carrière dans le secteur des finances, décide avec exaltation de s’associer à Élodie en ouvrant ensemble le premier Centre Thetys à Pégomas en 2009. L’établissement a rapidement trouvé sa clientèle et a doublé sa superficie en 3 ans. Fort de son succès, le couple ouvre un second centre à Antibes en 2014, puis un troisième au Cannet en 2016. Aujourd’hui le Centre Thetys compte 15 collaboratrices réparties sur 3 centres décorés avec élégance et totalisant plus de 500 m² de superficie.",
+      "image": "centre-thetys-fondateurs-elodie-et-alexandre",
+      "interview": "/journal/interview-entretien-avec-les-co-fondateurs-du-centre-thetys/",
+      "timeline": [
+        { "year": "2009", "text": "Ouverture du premier Centre Thetys à Pégomas" },
+        { "year": "2012", "text": "Le centre de Pégomas double sa superficie" },
+        { "year": "2014", "text": "Ouverture du centre d’Antibes" },
+        { "year": "2016", "text": "Ouverture du centre du Cannet" },
+        { "year": "Aujourd’hui", "text": "15 collaboratrices, 3 centres, plus de 500 m²" }
+      ]
+    },
+    "wish": {
+      "eyebrow": "Notre souhait le plus cher",
+      "title": "Bien dans votre âge, <em>bien dans votre corps.</em>",
+      "paragraphs": [
+        "Au quotidien, notre ambition est forte. Plus que tout nous souhaitons que vous vous sentiez bien dans votre âge, bien dans votre corps, en toute simplicité, sans artifice et en vous faisant gagner du temps.",
+        "Nous voulons être à la hauteur de cette promesse car vous méritez que l’on prenne au sérieux vos demandes esthétiques en vous guidant raisonnablement, de manière concrète, en toute confiance.",
+        "Nous sommes à l’écoute de toutes vos remarques et suggestions, écrivez-nous à <a href=\"mailto:contact@centrethetys.fr\">contact@centrethetys.fr</a>."
+      ]
+    },
+    "techList": "Découvrez toutes nos technologies Anti-âge, Minceur et épilation définitive : Icoone, Electrolyse, Biologique Recherche, V-Core, JetPeel®, PlasmaPulse, LED, Radiofréquence multidimensionnelle Core, Cryolipolyse V2, Ipulse 5.1."
+  },
+
+  "diagnostic": {
+    "seoTitle": "Diagnostic beauté offert et auto-diagnostic en ligne",
+    "seoDescription": "Votre plan beauté sur-mesure en 60 secondes, puis un diagnostic de 30 minutes offert et sans engagement dans nos centres d’Antibes, du Cannet et de Pégomas.",
+    "eyebrow": "Centre Thetys · Diagnostic en ligne",
+    "title": "Votre plan beauté sur-mesure <em>en 60 secondes.</em>",
+    "intro": "Répondez à 3 questions, laissez-nous vos coordonnées, et recevez immédiatement sur WhatsApp le plan que nos expertes recommandent pour vous.",
+    "meta": "3 questions · Plan par WhatsApp · Diagnostic offert en centre",
+    "why": {
+      "eyebrow": "Je veux faire mon diagnostic offert",
+      "title": "Nous analysons votre problématique <em>avant de la traiter.</em>",
+      "lead": "Au Centre Thetys nous commençons toujours par réaliser un diagnostic avant de pratiquer la technologie souhaitée. Nous nous assurons de son innocuité et de son efficacité pour la résolution de votre problématique. Nous pouvons commencer le diagnostic par téléphone ou en ligne, et le finaliser sur rendez-vous dans le Centre Thetys de votre choix.",
+      "paragraphs": [
+        "Pour obtenir les meilleurs résultats quel que soit votre besoin (<a href=\"/besoins/silhouette/\">silhouette</a>, <a href=\"/besoins/peau-plus-jeune/\">peau plus jeune</a>, <a href=\"/besoins/peau-plus-belle/\">peau plus belle</a>…) nous agissons avec méthode et intelligence.",
+        "En premier lieu il s’agit de cibler précisément la nature de votre problématique pour sélectionner la technologie adéquate. En effet, nous recevons souvent des personnes désirant pratiquer une technologie en particulier car celle-ci a été médiatisée. Pourtant, il n’est pas rare qu’une autre technologie plus spécifique soit recommandée, ou bien qu’un protocole sur mesure faisant intervenir 2 ou 3 technologies soit préconisé. De plus, selon l’intensité du besoin et les résultats souhaités, nous ajusterons le nombre de séances nécessaires.",
+        "Après cela, il est important de vérifier qu’aucune contre-indication pourrait mettre votre sécurité en péril. Nous vous expliquons tous les tenants et aboutissants. En effet, certaines technologies ont des recommandations qui doivent être scrupuleusement respectées.",
+        "Nous complétons l’établissement du protocole par des recommandations hygiéno-diététiques adaptées, puis nous prenons quelques mesures et photos qui nous permettront d’apprécier ensemble les résultats à l’issue du protocole.",
+        "En somme, vous êtes unique et une problématique esthétique n’est jamais banale. Retenez aussi que l’utilisation de ces technologies n’est pas anodine, elle doit être encadrée et justifiée."
+      ]
+    },
+    "strengths": {
+      "title": "Les 3 points forts de notre diagnostic",
+      "items": [
+        { "title": "Bienveillant", "text": "Notre experte vous posera des questions relatives à vos habitudes hygiéno-diététiques et à votre santé de manière professionnelle et bienveillante." },
+        { "title": "Précis", "text": "Notre expertise permet de formuler des préconisations sur mesure concernant les technologies à utiliser mais aussi des préconisations en cosmétologie." },
+        { "title": "Rassurant", "text": "Grâce au diagnostic, vous comprendrez pourquoi et comment votre problématique esthétique sera traitée dans les meilleures conditions d’efficacité et de sécurité." }
+      ]
+    },
+    "kinds": [
+      { "title": "Le diagnostic visage", "text": "Que ce soit pour agir contre les rides ou tout autres problématiques telles que l’acné ou le dessèchement cutané, nous étudions votre visage avec précision. Notre diagnostic Visage est l’alliance entre l’expérience et l’écoute de nos expertes en esthétique et des outils d’analyse professionnels qui détectent précisément les déséquilibres cutanés.", "image": "diag-analyse-ecran-pegomas" },
+      { "title": "Le diagnostic minceur", "text": "Que ce soit pour agir contre le gras, le manque de fermeté, la rétention d’eau, ou pour un renforcement musculaire, nous étudions votre corps avec précision. Nous réalisons les mesures et déterminons notamment le type de cellulite à éliminer.", "image": "diagnostic-centre-thetys" }
+    ],
+    "start": {
+      "eyebrow": "Comment commencer le diagnostic ?",
+      "title": "Par téléphone, en ligne <em>ou en centre.</em>"
+    }
+  },
+
+  "results": {
+    "seoTitle": "Résultats avant / après : cryolipolyse, HIFU, lift coréen",
+    "seoDescription": "Photos avant / après réelles de nos clientes à Antibes, Cannes et Pégomas : cryolipolyse, HIFU, lift coréen, microneedling, électrolyse. Résultats visibles, sans chirurgie. Diagnostic offert.",
+    "eyebrow": "Antibes · Cannes Le Cannet · Pégomas",
+    "title": "Nos résultats, <em>avant / après.</em>",
+    "lead": "Photos réelles de nos clientes, protocoles nommés. La preuve, avant le discours.",
+    "text": "Chaque résultat ci-dessous a été obtenu dans l’un de nos trois centres, à Antibes, Cannes Le Cannet ou Pégomas, avec le protocole indiqué. Le nombre de séances varie selon les personnes : votre diagnostic offert de 30 minutes détermine le protocole adapté à votre objectif.",
+    "featured": [
+      { "image": "avant-apres-hifu-visage-lifting-sans-chirurgie-centre-thetys", "label": "HIFU visage", "href": "/soins/hifu/" },
+      { "image": "avant-apres-lift-coreen-fil-collagene-centre-thetys", "label": "Lift coréen au fil de collagène", "href": "/soins/lift-coreen/" },
+      { "image": "avant-apres-cryolipolyse-ventre-centre-thetys-antibes", "label": "Cryolipolyse ventre", "href": "/soins/cryolipolyse/" },
+      { "image": "avant-apres-ipulse-silhouette-centre-thetys", "label": "iPulse 5.1", "href": "/soins/ipulse/" },
+      { "image": "avant-apres-microneedling-visage-centre-thetys", "label": "Microneedling", "href": "/soins/microneedling/" },
+      { "image": "avant-apres-electrolyse", "label": "Électrolyse haute fréquence", "href": "/soins/electrolyse/" },
+      { "image": "avant-apres-biologique-recherche", "label": "Biologique Recherche", "href": "/soins/biologique-recherche/" }
+    ],
+    "note": "Résultats non contractuels, variables selon les personnes. Photos publiées avec l’accord de nos clientes.",
+    "cta": { "title": "Votre résultat commence <em>par un diagnostic.</em>", "text": "30 minutes offertes, dans le centre de votre choix. Sans engagement." }
+  },
+
+  "cosmetics": {
+    "seoTitle": "Nos gammes cosmétiques & nutricosmétiques",
+    "seoDescription": "Au Centre Thetys, nous sommes sensibles à la cosmétologie car c’est une alliée de choix pour nos technologies de beauté. Ainsi, pour renforcer nos protocoles, nous avons sélectionné 4 gammes de cosmétiques et nutricosmétiques selon nos critères d’éthique et d’efficacité.",
+    "eyebrow": "Cosmétologie",
+    "title": "Nos gammes cosmétiques <em>& nutricosmétiques</em>",
+    "intro": "Au Centre Thetys, nous sommes sensibles à la cosmétologie car nous avons compris qu’elle est une alliée de choix pour nos technologies de beauté. Comme dans bien des domaines, c’est la synergie des plus belles forces qui crée les plus beaux résultats. Ainsi, pour renforcer nos protocoles, nous avons sélectionné 4 gammes de cosmétiques et nutricosmétiques selon nos critères d’éthique et d’efficacité. Soyez bien conseillés dans tous nos centres.",
+    "brands": [
+      { "name": "Peelings Mesoestetic", "badge": "Nouveau", "logo": "logo-mesoestetic-cosmetique-professionnelle", "images": ["meso-terne", "peeling-meso-3"], "text": "Les peelings de la marque mesoestetic, disponibles au Centre Thetys, offrent une solution rénovatrice pour une peau éclatante et saine. Adaptés à divers types de peau et problématiques cutanées, ces peelings apportent une véritable rénovation de la surface cutanée, réduisant les imperfections et stimulant la régénération naturelle.", "href": "/soins/peelings-mesoestetic/" },
+      { "name": "Biologique Recherche", "logo": "logo-biologique-recherche", "images": ["soin-visage-br-2-2023-09", "photo-soin-visage-br"], "text": "Fondé à la fin des années 70 par une famille d’artisans experts du soin cosmétique, Biologique Recherche propose des formules de soins associant authenticité et équilibre. Les produits Biologique Recherche utilisent des extraits végétaux, biomarins et bio-technologiques à un niveau de concentration très élevé pour une efficacité renforcée.", "href": "/soins/biologique-recherche/" },
+      { "name": "Thalgo", "logo": "thalgo", "images": ["thalgo-hyaluprocollagene-2-min"], "text": "Thalgo cultive un esprit pionnier en recherche cosmétique qui sied particulièrement bien au Centre Thetys. A travers le monde, Thalgo explore la richesse des algues marines depuis 1964. Ainsi les extraits marins les plus concentrés en principes actifs sont contenus dans les cosmétiques et nutricosmétiques de ce laboratoire français reconnu dans l’univers de l’anti-âge et de la minceur.", "href": "/soins/thalgo/" },
+      { "name": "D-LAB nutricosmetics", "logo": "d-lab-nutricosmetics", "images": ["d-lab-absolu-de-collagene-2-min", "d-lab-activateur-de-metabolisme-2-min"], "text": "Né en 2009, pionnier en termes de médecine intégrative & préventive, D‑LAB a appris à regarder le corps comme un tout et à augmenter son potentiel tout en le préservant. Cela fait beaucoup de points communs avec le Centre Thetys. C’est pourquoi nous avons plaisir à accueillir cette nouvelle gamme française de compléments alimentaires dans tous nos centres : de parfaits compléments à nos protocoles Minceur ou Anti-âge et à un régime alimentaire sain.", "href": null }
+    ],
+    "more": "Vous souhaitez voir une nouvelle gamme ?"
+  },
+
+  "giftcard": {
+    "seoTitle": "Carte cadeau Centre Thetys",
+    "seoDescription": "Faire plaisir ou se faire plaisir grâce à des chèques cadeaux c’est possible au Centre Thetys grâce à notre Carte Cadeau by Centre Thetys. Valable dans nos trois centres.",
+    "eyebrow": "Pour offrir",
+    "title": "La carte cadeau <em>Thetys</em>",
+    "intro": "Faire plaisir ou se faire plaisir grâce aux Cartes Cadeaux c’est possible au Centre Thetys. Elle est valable pour tous nos protocoles Visage, Corps, Lumière Pulsée ainsi que pour nos gammes cosmétiques et nutricosmétiques. Immédiatement disponible, votre Carte Cadeau est directement téléchargeable !",
+    "lead": "Une séance, un protocole complet ou un montant libre, à utiliser sur tous nos soins et nos gammes cosmétiques.",
+    "image": "carte-cadeau-thetys",
+    "options": [
+      { "title": "Biologique Recherche", "image": "photo-soin-visage-br", "text": "Au Centre Thetys, les soins du visage Biologique Recherche apportent des solutions sur-mesure, quelle que soit votre problématique cutanée.", "prices": [ { "label": "Soin visage 1h", "price": "145 €" }, { "label": "Soin visage 1h30", "price": "189 €" } ] },
+      { "title": "Soin Thalgo", "image": "thalgo", "text": "Thalgo la marque Marine sur la Côte d’Azur vous apporte des solutions sur-mesure, quelle que soit votre problématique cutanée.", "prices": [ { "label": "Soin fondamental", "price": "85 €" }, { "label": "Soin HyaluroproCollagène 1H", "price": "96 €" }, { "label": "Soin Silicium 1h", "price": "115 €" }, { "label": "Soin Excellence", "price": "129 €" } ] },
+      { "title": "Montant libre", "image": "carte-cadeau-thetys-1", "text": "La Carte Cadeau « Montant Libre » vient en déduction du montant de la prestation choisie par la personne destinataire de la carte.", "prices": [] }
+    ],
+    "treatmentsTitle": "Choisissez le meilleur traitement à (s’)offrir",
+    "treatments": [
+      { "name": "Jetpeel", "slug": "jet-peel", "tagline": "La meilleure alternative aux injections", "prices": [ { "label": "Classique", "price": "145 € / séance" }, { "label": "Acné", "price": "145 € / séance" }, { "label": "Boost ATX", "price": "199 € / séance" } ], "checks": ["Injection sans aiguille", "Frais et très agréable", "Effet long terme"] },
+      { "name": "HIFU", "slug": "hifu", "tagline": "La meilleure alternative au lifting visage", "prices": [ { "label": "Visage entier + cou", "price": "475 € / séance" } ], "checks": ["Sans chirurgie", "Résultat garanti", "1 à 2 ans d’efficacité"] },
+      { "name": "Plasma Pulse", "slug": "plasma-pulse", "tagline": "La meilleure alternative au lifting des paupières tombantes et de la lèvre supérieure", "prices": [ { "label": "Séance", "price": "300 € / séance" } ], "checks": ["Lifting naturel", "Résultat garanti", "1 à 2 ans d’efficacité"] },
+      { "name": "Radiofréquence multidimensionnelle Core", "slug": "radiofrequence-core", "tagline": "La référence du rajeunissement et du traitement de la cellulite", "prices": [ { "label": "Corps · 1 zone", "price": "76 € / séance" }, { "label": "Corps · 2 zones", "price": "135 € / séance" }, { "label": "Corps · 3 zones", "price": "172 € / séance" }, { "label": "Corps · 4 zones", "price": "219 € / séance" }, { "label": "Visage · 1 zone (cou)", "price": "76 € / séance" }, { "label": "Visage · 2 zones (visage)", "price": "135 € / séance" }, { "label": "Visage · 3 zones (visage + cou)", "price": "172 € / séance" } ], "checks": ["Destruction en profondeur de la cellulite", "Raffermissement cutané", "Visible immédiatement", "Aucune éviction sociale"] },
+      { "name": "Cryolipolyse V2", "slug": "cryolipolyse", "tagline": "La dernière technologie de destruction des cellules graisseuses par le froid ET le chaud", "prices": [ { "label": "Double aspiration", "price": "290 € / séance" } ], "checks": ["Meilleure alternative à la liposuccion", "Sans chirurgie, sans douleur", "45% du volume graisseux détruit par séance"] },
+      { "name": "V-Core®", "slug": "v-core", "tagline": "La technologie la plus efficace pour gagner du muscle et perdre de la graisse en même temps", "prices": [ { "label": "4 zones corps (bras + ventre + fessier + cuisses)", "price": "90 € / séance" } ], "checks": ["-20% de masse graisseuse", "+20 % de muscle", "36 000 contractions en 25 min", "Indolore"] },
+      { "name": "Ipulse 5.1", "slug": "ipulse", "tagline": "5 technologies minceurs en 1 appareil afin de traiter la rétention d’eau, les jambes lourdes et les pertes centimétriques", "prices": [ { "label": "4 zones corps (bras + ventre + fesses + cuisses)", "price": "89 € / séance" } ], "checks": ["Résultat immédiat", "Pas d’éviction sociale"] }
+    ],
+    "pricesNote": "Tarifs de la carte cadeau en ligne. Le tarif de votre protocole est confirmé lors du diagnostic offert.",
+    "details": {
+      "title": "Le cadeau idéal pour toutes les occasions",
+      "paragraphs": [
+        "La carte cadeau est valable dans le Centre Thetys de votre choix (Antibes, Cannes ou Pégomas).",
+        "Ainsi, le bon cadeau Technologie de Beauté personnalisée Centre Thetys est le cadeau idéal à offrir ! Enfin, il donne accès au bénéficiaire de la carte à tous nos soins disponibles ou notre gamme de produit cosmétique.",
+        "Plus qu’une simple carte cadeau, c’est un accès au meilleur de la technologie. Ainsi le bénéficiaire reste libre de choisir sa prestation donnant la possibilité de prendre rendez vous pour une durée supérieure. Enfin, le complément pourra être payé par le bénéficiaire du cadeau lors de la réservation."
+      ],
+      "facts": [
+        { "value": "1 an", "label": "de validité à partir de la date d’achat" },
+        { "value": "3", "label": "centres : Antibes, Cannes, Pégomas" },
+        { "value": "Libre", "label": "le bénéficiaire choisit le jour et l’heure" }
+      ],
+      "warning": "Cette carte n’est pas envoyée par voie postale, vous aurez la possibilité sur la page de paiement d’indiquer l’e-mail du bénéficiaire et lui envoyer un message."
+    },
+    "faq": [
+      { "q": "Pourquoi acheter une carte cadeau ?", "a": "Offrir une Carte Cadeau by Centre Thetys c’est permettre à l’être aimé de vivre une expérience bienveillante et bienfaisante en toute sécurité. En effet, grâce à votre cadeau, la personne destinataire de la carte pourra venir bénéficier dans un premier temps de son diagnostic beauté. Elle saura ainsi, selon les objectifs qu’elle souhaite atteindre, comment elle pourra utiliser sa carte à bon escient." },
+      { "q": "Comment acheter une carte cadeau ?", "a": "Sélectionnez la Carte Cadeau de votre choix parmi le montant libre et/ou les différents soins. Vous pouvez, si vous le souhaitez, régler par CB jusqu’à 3x sans frais ! Pour la télécharger : vous disposerez d’un espace dédié sur votre compte en ligne et vous la recevrez directement par mail, n’hésitez pas à vérifier dans vos courriers indésirables et autres spams." },
+      { "q": "Que puis-je faire avec une carte cadeau « Montant Libre » ?", "a": "La Carte Cadeau « Montant Libre » vient en déduction du montant de la prestation choisie par la personne destinataire de la carte. Elle pourra profiter en amont de nos conseils. La Carte Cadeau est valable pour toutes nos technologies anti-âge pour une peau plus jeune ou plus belle ; mais aussi pour toutes nos technologies minceur pour agir sur la silhouette. La Carte Cadeau est également utilisable pour un protocole de Lumière pulsée SHR afin de dire adieu aux poils. Enfin, la Carte Cadeau peut permettre aussi de s’offrir des produits cosmétiques ou nutricosmétiques de nos gammes made in France : Biologique Recherche, Terrake, Thalgo et D-Lab. Crème hydratante, sérum liftant, contour des yeux, huiles aux actifs naturels, lait raffermissant, gel douche aux parfums des îles… le bonheur sensoriel et l’efficacité sont au rendez-vous." },
+      { "q": "À quel cadeau correspondent les montants ?", "a": "Tous nos tarifs sont disponibles sur la page de la technologie de beauté afférente et aussi sur notre catalogue. Vous pouvez également choisir un montant libre lors de l’achat de votre Carte Cadeau." }
+    ]
+  },
+
+  "booking": {
+    "seoTitle": "Prendre RDV : diagnostic offert à Antibes, Cannes, Pégomas",
+    "seoDescription": "Prenez RDV en 2 min : diagnostic visage, minceur ou épilation offert (30 min, sans engagement). Centre Thetys Antibes, Cannes Le Cannet et Pégomas. Parking privé.",
+    "eyebrow": "Prendre rendez-vous",
+    "title": "Prenez votre rendez-vous <em>esthétique, minceur ou soin du visage.</em>",
+    "intro": "Réservez dans l’un de nos centres, votre bilan visage, corps ou épilation définitive.",
+    "formTitle": "Être recontacté par votre Centre Thetys d’Antibes, Cannes ou Pégomas",
+    "formText": "Remplissez le formulaire ci-dessous et nous vous rappelons aux horaires d’ouverture.",
+    "subjects": ["Prise de rendez-vous", "Question sur nos solutions", "Recrutement", "Autre"],
+    "callback": ["Dans les 20 minutes", "Dans l’heure", "Dans la journée", "Demain"]
+  },
+
+  "recruitment": {
+    "seoTitle": "Recrutement : rejoindre l’équipe Centre Thetys",
+    "seoDescription": "Vous aimez l’approche nouvelle technologie de la beauté, vous êtes très rigoureuse et minutieuse ? Rejoignez le Centre Thetys pour révéler votre ambition.",
+    "eyebrow": "Recrutement",
+    "title": "Rejoindre l’équipe <em>Centre Thetys</em>",
+    "intro": "Au Centre Thetys nous sommes en perpétuelle recherche des meilleurs résultats Minceur et Beauté. Aujourd’hui nous permettons aux femmes de se sentir mieux dans leur corps, sans chirurgie et sans douleur, grâce aux nouvelles technologies. Notre goût du challenge est partagé par tous les membres de l’équipe, et c’est cela qui nous permet d’être précurseurs sur ce marché en transformation.",
+    "question": "Souhaitez-vous nous rejoindre ?",
+    "job": {
+      "title": "Nous recherchons l’esthéticienne <em>de demain</em>",
+      "text": "Minimum requis : CAP esthétique. Une formation interne intensive sur toutes les technologies vous sera délivrée. Vous aimez l’approche nouvelle technologie, vous êtes très rigoureuse et minutieuse. Vous aimez accompagner les clientes, les conseiller et les guider vers les meilleurs résultats. Une expérience dans les technologies (cryolipolyse, lumière pulsée…) sera appréciée.",
+      "apply": "Envoyez votre lettre de motivation et votre CV à"
+    }
+  }
+}

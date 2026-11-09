@@ -1,0 +1,161 @@
+{
+  "index": {
+    "seoTitle": "Nos centres esthétiques sur la Côte d’Azur : Antibes, Cannes Le Cannet, Pégomas",
+    "seoDescription": "Trois centres Thetys sur la Côte d’Azur : Antibes, Cannes Le Cannet et Pégomas. Mêmes technologies, mêmes tarifs, même exigence. Diagnostic offert, parking, réservation en ligne.",
+    "eyebrow": "Trois adresses sur la Côte d’Azur",
+    "title": "Nos 3 centres sur la Côte d’Azur",
+    "intro": "Mêmes technologies, mêmes tarifs, même exigence : choisissez le centre le plus proche de vous.",
+    "concept": {
+      "eyebrow": "Notre concept sensoriel",
+      "text": "L’accueil et le plaisir de passer du temps en notre compagnie est fondamental. Notre identité englobe ces notions, c’est pourquoi nos trois centres proposent le même univers. Les couleurs, les matériaux, l’éclairage sont reconnaissables et choisis pour votre bien-être."
+    },
+    "expertises": [
+      { "title": "Centre d’épilation", "text": "pour un résultat 100% définitif" },
+      { "title": "Minceur", "text": "les dernières innovations dans une approche 360° de votre Corps" },
+      { "title": "Visage", "text": "100% sans injections ni chirurgie" }
+    ]
+  },
+  "pages": {
+    "antibes": {
+      "seoTitle": "Centre Esthétique Minceur & Visage à Antibes",
+      "seoDescription": "Centre Thetys Antibes, 6 avenue Thiers : cryolipolyse, Icoone, HIFU, Jet Peel, électrolyse et soins visage. Diagnostic offert, lun-sam, parking privé. 04 93 74 31 88.",
+      "eyebrow": "Votre centre Thetys à Antibes",
+      "title": "Centre Thetys Antibes : l’esthétique nouvelle génération.",
+      "intro": "En plein centre d’Antibes, au 6 avenue Thiers, notre équipe d’expertes met les technologies esthétiques les plus avancées au service de votre silhouette, de votre visage et de votre peau. Tout commence par un diagnostic offert.",
+      "about": {
+        "eyebrow": "Le centre",
+        "title": "Un institut technologique, une équipe d’expertes.",
+        "paragraphs": [
+          "Le Centre Thetys Antibes réunit sous un même toit ce que l’esthétique fait de mieux : cryolipolyse, Icoone, HIFU, Jet Peel, électrolyse, soins visage Biologique Recherche et Thalgo. Chaque protocole est personnalisé après un diagnostic offert, et suivi séance après séance par la même praticienne.",
+          "Minceur, anti-âge, épilation définitive ou qualité de peau : nous construisons avec vous un plan d’action clair, avec des tarifs transparents et un paiement en 4 fois sans frais.",
+          "Femmes et hommes, tous phototypes, tous âges : votre objectif devient le nôtre, depuis plus de 17 ans sur la Côte d’Azur. Et parce que chaque parcours est unique, votre praticienne reste votre interlocutrice du premier bilan à la dernière séance : elle connaît votre peau, vos résultats, vos objectifs."
+        ],
+        "caption": "Le centre · Antibes",
+        "alt": "Accueil du Centre Thetys Antibes, centre esthétique au 6 avenue Thiers"
+      },
+      "techTitle": "Toutes les technologies, dans votre centre.",
+      "techEyebrow": "Nos solutions à Antibes",
+      "around": {
+        "eyebrow": "Autour d’Antibes",
+        "title": "Un centre au coeur de la Côte d’Azur.",
+        "text": "Situé avenue Thiers, à quelques minutes à pied de la gare d’Antibes et du vieil Antibes, le centre est facilement accessible depuis toute la bande côtière entre Nice et Cannes. Nos clientes viennent d’Antibes bien sûr, mais aussi de Juan-les-Pins, Biot, Vallauris, Golfe-Juan, Villeneuve-Loubet, Cagnes-sur-Mer ou du parc d’activités de Sophia Antipolis. Le parking privé simplifie tout : appelez-nous, on vous garde une place.",
+        "towns": ["Antibes centre", "Juan-les-Pins", "Biot", "Sophia Antipolis", "Vallauris · Golfe-Juan", "Villeneuve-Loubet", "Cagnes-sur-Mer"],
+        "others": "Plus proche de Cannes ou de Grasse ? Nos centres du Cannet et de Pégomas proposent les mêmes standards."
+      },
+      "review": { "text": "Un lieu incroyable de douceur et de réconfort en plein centre d’Antibes. Avec un personnel à l’écoute de nos besoins, je recommande très vivement.", "author": "Chloé · Avis Google vérifié" },
+      "faqTitle": "Tout savoir sur le centre d’Antibes.",
+      "faq": [
+        { "q": "Où se trouve le Centre Thetys à Antibes ?", "a": "Au 6 avenue Thiers, 06600 Antibes, en plein centre-ville. Un parking privé est à votre disposition : contactez-nous au 04 93 74 31 88 pour y accéder." },
+        { "q": "Quels sont les horaires d’ouverture ?", "a": "Du lundi au vendredi de 9h à 19h et le samedi de 9h à 13h, sur rendez-vous. Réservation en ligne 24h/24 ou par téléphone." },
+        { "q": "Le diagnostic est-il vraiment offert ?", "a": "Oui : 30 minutes avec une experte pour analyser votre problématique et définir votre protocole, sans engagement. C’est notre façon de commencer chaque accompagnement depuis plus de 17 ans." },
+        { "q": "Quelles solutions minceur sont disponibles à Antibes ?", "a": "La cryolipolyse 2.0 pour détruire les amas graisseux, l’Icoone contre la cellulite, l’iPulse 5.1 pour l’amincissement global et le V-Core pour muscler et sculpter. Le diagnostic détermine la combinaison adaptée à votre silhouette." },
+        { "q": "Et pour le visage et la peau ?", "a": "HIFU, Plasma Pulse, Jet Peel, microneedling, radiofréquence, LED, peelings Mesoestetic et les soins manuels Biologique Recherche et Thalgo : le centre d’Antibes couvre l’anti-âge, l’éclat, les taches et les imperfections." },
+        { "q": "Proposez-vous l’épilation définitive ?", "a": "Oui, par électrolyse : la seule méthode 100 % définitive, efficace même sur les poils blancs, blonds ou roux et sur tous les phototypes. Le bilan est offert." },
+        { "q": "Les hommes sont-ils les bienvenus ?", "a": "Bien sûr : minceur, épilation définitive, soins du visage ou V-Core, une part croissante de notre clientèle est masculine." },
+        { "q": "Le centre est-il accessible depuis Juan-les-Pins ou Sophia Antipolis ?", "a": "Oui, très facilement : l’avenue Thiers est à quelques minutes de la gare d’Antibes et des grands axes. Comptez environ 5 minutes depuis Juan-les-Pins, 15 depuis Biot ou Sophia Antipolis, avec le parking privé à l’arrivée." },
+        { "q": "Quels soins choisir pour un événement proche ?", "a": "Pour un éclat immédiat sans éviction : Jet Peel, LED, soin Thalgo ou Biologique Recherche. Votre praticienne compose le protocole selon votre délai, dès le diagnostic offert." },
+        { "q": "Peut-on payer en plusieurs fois ?", "a": "Oui, toutes nos cures bénéficient du paiement en 4 fois sans frais, et les tarifs sont annoncés clairement dès le diagnostic, sans surprise." }
+      ],
+      "cta": { "title": "Votre transformation commence à Antibes.", "text": "Diagnostic offert de 30 minutes au 6 avenue Thiers : votre objectif, votre protocole, votre tarif. Sans engagement." },
+      "access": "Le Centre Thetys d’Antibes est situé près de la gare, en centre ville. Venir en transports en commun est donc très aisé. Combiner shopping et séance au Centre Thetys est très facile à Antibes !"
+    },
+    "cannes-le-cannet": {
+      "seoTitle": "Centre Esthétique Minceur & Visage à Cannes",
+      "seoDescription": "Centre Thetys Cannes Le Cannet, 109 bd Sadi Carnot : cryolipolyse, Icoone, HIFU, Jet Peel, électrolyse et soins visage. Diagnostic offert, parking gratuit. 07 68 89 33 48.",
+      "eyebrow": "Votre centre Thetys à Cannes · Le Cannet",
+      "title": "Centre Thetys Cannes · Le Cannet : l’esthétique nouvelle génération.",
+      "intro": "Au 109 boulevard Sadi Carnot, au Cannet, aux portes de Cannes, notre équipe d’expertes met les technologies esthétiques les plus avancées au service de votre silhouette, de votre visage et de votre peau. Tout commence par un diagnostic offert.",
+      "about": {
+        "eyebrow": "Le centre",
+        "title": "Un institut technologique, une équipe d’expertes.",
+        "paragraphs": [
+          "Le Centre Thetys Cannes · Le Cannet réunit sous un même toit ce que l’esthétique fait de mieux : cryolipolyse, Icoone, HIFU, Jet Peel, électrolyse, soins visage Biologique Recherche et Thalgo. Chaque protocole est personnalisé après un diagnostic offert, et suivi séance après séance par la même praticienne.",
+          "Minceur, anti-âge, épilation définitive ou qualité de peau : nous construisons avec vous un plan d’action clair, avec des tarifs transparents et un paiement en 4 fois sans frais.",
+          "Femmes et hommes, tous phototypes, tous âges : votre objectif devient le nôtre, depuis plus de 17 ans sur la Côte d’Azur. Et parce que chaque parcours est unique, votre praticienne reste votre interlocutrice du premier bilan à la dernière séance : elle connaît votre peau, vos résultats, vos objectifs."
+        ],
+        "caption": "Le centre · Cannes Le Cannet",
+        "alt": "Accueil du Centre Thetys Cannes Le Cannet, centre esthétique au 109 boulevard Sadi Carnot"
+      },
+      "techTitle": "Toutes les technologies, dans votre centre.",
+      "techEyebrow": "Nos solutions à Cannes",
+      "around": {
+        "eyebrow": "Autour de Cannes",
+        "title": "Un centre aux portes de Cannes.",
+        "text": "Le boulevard Sadi Carnot est l’axe direct entre le centre de Cannes et Le Cannet : vous nous rejoignez en quelques minutes depuis la Croisette, la gare de Cannes ou le quartier Carnot, et le parking privé gratuit dans notre cour intérieure vous attend juste devant le centre. Nos clientes viennent de Cannes et du Cannet, mais aussi de Mougins, Mandelieu-La Napoule, Mouans-Sartoux, La Bocca ou Vallauris.",
+        "towns": ["Cannes centre", "Le Cannet", "Mougins", "Mandelieu-La Napoule", "Mouans-Sartoux", "La Bocca", "Vallauris"],
+        "others": "Plus proche d’Antibes ou de Grasse ? Nos centres d’Antibes et de Pégomas proposent les mêmes standards."
+      },
+      "review": { "text": "J’ai l’immense chance de fréquenter le centre Thetys de Cannes depuis 2022. Je fais de la radiofréquence et du Jet Peel mensuellement et ces petits moments sont précieux.", "author": "Karyn L. · Avis Google vérifié" },
+      "faqTitle": "Tout savoir sur le centre de Cannes.",
+      "faq": [
+        { "q": "Où se trouve le Centre Thetys à Cannes ?", "a": "Au 109 boulevard Sadi Carnot, 06110 Le Cannet, sur l’axe direct entre Cannes et Le Cannet. Un parking client privé gratuit vous attend dans notre cour intérieure, juste devant le centre." },
+        { "q": "Quels sont les horaires d’ouverture ?", "a": "Du lundi au vendredi de 9h à 19h et le samedi de 9h à 13h (samedi fermé en juillet et août). Réservation en ligne 24h/24 ou par téléphone." },
+        { "q": "Le diagnostic est-il vraiment offert ?", "a": "Oui : 30 minutes avec une experte pour analyser votre problématique et définir votre protocole, sans engagement. C’est notre façon de commencer chaque accompagnement depuis plus de 17 ans." },
+        { "q": "Quelles solutions minceur sont disponibles à Cannes ?", "a": "La cryolipolyse 2.0 pour détruire les amas graisseux, l’Icoone contre la cellulite, l’iPulse 5.1 pour l’amincissement global et le V-Core pour muscler et sculpter. Le diagnostic détermine la combinaison adaptée à votre silhouette." },
+        { "q": "Et pour le visage et la peau ?", "a": "HIFU, Plasma Pulse, Jet Peel, microneedling, radiofréquence, LED, peelings Mesoestetic et les soins manuels Biologique Recherche et Thalgo : le centre de Cannes couvre l’anti-âge, l’éclat, les taches et les imperfections." },
+        { "q": "Proposez-vous l’épilation définitive ?", "a": "Oui, par électrolyse : la seule méthode 100 % définitive, efficace même sur les poils blancs, blonds ou roux et sur tous les phototypes. Le bilan est offert." },
+        { "q": "Les hommes sont-ils les bienvenus ?", "a": "Bien sûr : minceur, épilation définitive, soins du visage ou V-Core, une part croissante de notre clientèle est masculine." },
+        { "q": "Le centre est-il accessible depuis le centre de Cannes ?", "a": "Oui, très facilement : le boulevard Sadi Carnot part du centre de Cannes vers Le Cannet. Comptez environ 5 minutes depuis la gare de Cannes ou la Croisette, 10 depuis Mougins ou La Bocca, avec le parking gratuit de la cour intérieure à l’arrivée." },
+        { "q": "Quels soins choisir pour un événement proche ?", "a": "Pour un éclat immédiat sans éviction : Jet Peel, LED, soin Thalgo ou Biologique Recherche. Votre praticienne compose le protocole selon votre délai, dès le diagnostic offert." },
+        { "q": "Peut-on payer en plusieurs fois ?", "a": "Oui, toutes nos cures bénéficient du paiement en 4 fois sans frais, et les tarifs sont annoncés clairement dès le diagnostic, sans surprise." }
+      ],
+      "cta": { "title": "Votre transformation commence à Cannes.", "text": "Diagnostic offert de 30 minutes au 109 boulevard Sadi Carnot : votre objectif, votre protocole, votre tarif. Sans engagement." },
+      "access": "Le Centre Thetys de la zone cannoise est situé sur la commune du Cannet, en haut du Boulevard Carnot qui fait la jonction avec la ville de Cannes. Ce boulevard est très bien desservi par les transports en commun. En voiture, l’accès à l’autoroute A8 est à moins de 5 minutes, et vous pourrez profiter de notre grand parking privatif."
+    },
+    "pegomas": {
+      "seoTitle": "Centre Esthétique Minceur & Visage à Pégomas",
+      "seoDescription": "Centre Thetys Pégomas, 18 place du Logis : épilation laser Keros Alpha, cryolipolyse, Icoone, HIFU, Jet Peel et soins visage. Diagnostic offert. 04 93 66 21 89.",
+      "eyebrow": "Votre centre Thetys à Pégomas",
+      "title": "Centre Thetys Pégomas : l’esthétique nouvelle génération.",
+      "intro": "Au 18 place du Logis, au coeur du village de Pégomas, entre Grasse et Cannes, notre équipe d’expertes met les technologies esthétiques les plus avancées, dont le laser Keros Alpha, au service de votre silhouette, de votre visage et de votre peau. Tout commence par un diagnostic offert.",
+      "about": {
+        "eyebrow": "Le centre",
+        "title": "Un institut technologique, une équipe d’expertes.",
+        "paragraphs": [
+          "Le Centre Thetys Pégomas réunit sous un même toit ce que l’esthétique fait de mieux : cryolipolyse, Icoone, HIFU, Jet Peel, épilation laser Keros Alpha, électrolyse, soins visage Biologique Recherche et Thalgo. Chaque protocole est personnalisé après un diagnostic offert, et suivi séance après séance par la même praticienne.",
+          "Minceur, anti-âge, épilation définitive ou qualité de peau : nous construisons avec vous un plan d’action clair, avec des tarifs transparents et un paiement en 4 fois sans frais.",
+          "Femmes et hommes, tous phototypes, tous âges : votre objectif devient le nôtre, depuis plus de 17 ans sur la Côte d’Azur. Et parce que chaque parcours est unique, votre praticienne reste votre interlocutrice du premier bilan à la dernière séance : elle connaît votre peau, vos résultats, vos objectifs."
+        ],
+        "caption": "Le centre · Pégomas",
+        "alt": "Accueil du Centre Thetys Pégomas, centre esthétique au 18 place du Logis"
+      },
+      "techTitle": "Toutes les technologies, dans votre centre.",
+      "techEyebrow": "Nos solutions à Pégomas",
+      "around": {
+        "eyebrow": "Autour de Pégomas",
+        "title": "Le village qui monte, entre Grasse et Cannes.",
+        "text": "Sur la place du Logis, au coeur du village, le centre de Pégomas offre le calme et la proximité d’un institut de village avec un plateau technique de grande ville, dont l’épilation laser Keros Alpha, exclusivité de ce centre. Nos clientes viennent de Pégomas, mais aussi de Mouans-Sartoux, Grasse, La Roquette-sur-Siagne, Auribeau-sur-Siagne, Mougins ou Mandelieu.",
+        "towns": ["Pégomas", "Mouans-Sartoux", "Grasse", "La Roquette-sur-Siagne", "Auribeau-sur-Siagne", "Mougins", "Mandelieu"],
+        "others": "Plus proche du littoral ? Nos centres d’Antibes et du Cannet proposent les mêmes standards."
+      },
+      "review": { "text": "Très contente des résultats du laser, ravie du Centre Thetys de Pégomas et grand merci à l’équipe pour son super accueil.", "author": "Lola V. · Avis Google vérifié" },
+      "faqTitle": "Tout savoir sur le centre de Pégomas.",
+      "faq": [
+        { "q": "Où se trouve le Centre Thetys à Pégomas ?", "a": "Au 18 place du Logis, 06580 Pégomas, en plein coeur du village, entre Grasse et Cannes. Le stationnement est facile autour de la place." },
+        { "q": "Quels sont les horaires d’ouverture ?", "a": "Du lundi au vendredi de 9h à 19h et le samedi de 9h à 13h (samedi fermé en juillet et août). Réservation en ligne 24h/24 ou par téléphone." },
+        { "q": "Le diagnostic est-il vraiment offert ?", "a": "Oui : 30 minutes avec une experte pour analyser votre problématique et définir votre protocole, sans engagement. C’est notre façon de commencer chaque accompagnement depuis plus de 17 ans." },
+        { "q": "Quelles solutions minceur sont disponibles à Pégomas ?", "a": "La cryolipolyse 2.0 pour détruire les amas graisseux, l’Icoone contre la cellulite, l’iPulse 5.1 pour l’amincissement global et le V-Core pour muscler et sculpter. Le diagnostic détermine la combinaison adaptée à votre silhouette." },
+        { "q": "Et pour le visage et la peau ?", "a": "HIFU, Plasma Pulse, Jet Peel, microneedling, radiofréquence, LED, peelings Mesoestetic et les soins manuels Biologique Recherche et Thalgo : le centre de Pégomas couvre l’anti-âge, l’éclat, les taches et les imperfections." },
+        { "q": "Proposez-vous l’épilation définitive ?", "a": "Oui, doublement : Pégomas est le seul centre Thetys équipé du laser Keros Alpha, et propose aussi l’électrolyse, la seule méthode 100 % définitive, efficace même sur les poils blancs, blonds ou roux. Le bilan est offert." },
+        { "q": "Les hommes sont-ils les bienvenus ?", "a": "Bien sûr : minceur, épilation définitive, soins du visage ou V-Core, une part croissante de notre clientèle est masculine." },
+        { "q": "Le centre est-il accessible depuis Grasse ou Mandelieu ?", "a": "Oui : Pégomas est à une dizaine de minutes de Grasse, Mouans-Sartoux ou Mandelieu par la pénétrante et les axes du val de Siagne, avec un stationnement facile à l’arrivée." },
+        { "q": "Quels soins choisir pour un événement proche ?", "a": "Pour un éclat immédiat sans éviction : Jet Peel, LED, soin Thalgo ou Biologique Recherche. Votre praticienne compose le protocole selon votre délai, dès le diagnostic offert." },
+        { "q": "Peut-on payer en plusieurs fois ?", "a": "Oui, toutes nos cures bénéficient du paiement en 4 fois sans frais, et les tarifs sont annoncés clairement dès le diagnostic, sans surprise." }
+      ],
+      "cta": { "title": "Votre transformation commence à Pégomas.", "text": "Diagnostic offert de 30 minutes au 18 place du Logis : votre objectif, votre protocole, votre tarif. Sans engagement." },
+      "access": null
+    }
+  },
+  "steps": [
+    { "title": "Réservez votre bilan", "text": "En ligne, par téléphone au {phone} ou directement au centre : choisissez le créneau qui vous arrange, du lundi au samedi." },
+    { "title": "Le diagnostic · 30 min", "text": "Analyse de votre problématique, de vos objectifs et de votre peau. C’est offert et sans engagement." },
+    { "title": "Votre protocole", "text": "Nous composons votre plan personnalisé : technologies, nombre de séances, calendrier et devis clair, avec paiement en 4 fois sans frais." },
+    { "title": "Le suivi", "text": "Votre praticienne suit vos résultats séance après séance et ajuste le protocole si nécessaire, jusqu’à votre objectif." }
+  ],
+  "stats": [
+    { "value": "17 ans", "label": "d’expertise beauté" },
+    { "value": "20+", "label": "technologies et soins" },
+    { "value": "6j/7", "label": "du lundi au samedi" },
+    { "value": "4,8/5", "label": "250+ avis google" }
+  ]
+}
