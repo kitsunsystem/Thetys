@@ -443,7 +443,7 @@ export function pageHero({ eyebrow: eb, title, intro, crumbs: cr = [], image, im
         </div>` : aside}
       </div>
       ${st.length ? html`<div class="stats page-hero__stats" style="--n:${st.length}" data-stagger>
-        ${st.map((x) => html`<div class="stats__item"><span class="stats__value" data-count>${esc(x.value)}</span><span class="stats__label">${md(x.label)}${x.note ? ` <em>${md(x.note)}</em>` : ''}</span></div>`)}
+        ${st.map((x) => html`<div class="stats__item"><span class="stats__value${String(x.value).length > 8 ? ' stats__value--long' : ''}" data-count>${esc(x.value)}</span><span class="stats__label">${md(x.label)}${x.note ? ` <em>${md(x.note)}</em>` : ''}</span></div>`)}
       </div>` : ''}
     </div>
   </section>`;

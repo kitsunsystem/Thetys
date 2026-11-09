@@ -69,7 +69,7 @@ export function centrePage(c) {
   <section class="section">
     <div class="wrap split split--top">
       <div class="centre-gallery" data-stagger>
-        ${c.gallery.slice(0, 4).map((id, i) => `<div class="media ${i === 0 ? 'centre-gallery__main' : ''}">${picture(id, { alt: i === 0 ? k.about.alt : '', sizes: i === 0 ? '(max-width: 900px) 100vw, 50vw' : '25vw' })}</div>`).join('')}
+        ${c.gallery.slice(1, 5).map((id, i) => `<div class="media ${i === 0 ? 'centre-gallery__main' : ''}">${picture(id, { alt: i === 0 ? k.about.alt : '', sizes: i === 0 ? '(max-width: 900px) 100vw, 50vw' : '25vw' })}</div>`).join('')}
       </div>
       <div>
         ${eyebrow(k.about.eyebrow)}

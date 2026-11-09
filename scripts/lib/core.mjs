@@ -31,7 +31,7 @@ const CARD_IMAGES = {
   'radiofrequence-fractionnee': 'radiofrequence-corps', 'microneedling-cheveux': 'micro-meso-cheveux',
   'radiofrequence-core': 'radiofrequence-multidimensionnelle-core-01',
 };
-const HERO_IMAGES = { cryolipolyse: 'cryolipolyse-v2-03', 'microneedling-cheveux': 'micro-meso-cheveux', 'radiofrequence-fractionnee': 'radiofrequence-corps' };
+const HERO_IMAGES = { hifu: 'thetys01455-pp', cryolipolyse: 'cryolipolyse-v2-03', 'microneedling-cheveux': 'micro-meso-cheveux', 'radiofrequence-fractionnee': 'radiofrequence-corps' };
 export const soinImage = (s) => CARD_IMAGES[s.slug] || s.heroImage?.src || s.heroImage;
 export const soinHero = (s) => HERO_IMAGES[s.slug] || s.heroImage?.src || s.heroImage;
 // soins signalés « Nouveau » sur la page Nos solutions du site actuel
