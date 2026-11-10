@@ -29,7 +29,7 @@ export const CATEGORIES = [
 const CARD_IMAGES = {
   hifu: 'thetys01452-pp', 'jet-peel': 'soin-jetpeel-visage-sans-aiguille-centre-thetys', cryolipolyse: 'cryolipolyse-v2-03',
   'radiofrequence-fractionnee': 'radiofrequence-corps', 'microneedling-cheveux': 'micro-meso-cheveux',
-  'radiofrequence-core': 'radiofrequence-multidimensionnelle-core-01',
+  'radiofrequence-core': 'radiofrequence-visage', 'biologique-recherche': 'photo-soin-visage-br',
 };
 const HERO_IMAGES = { hifu: 'thetys01455-pp', cryolipolyse: 'cryolipolyse-v2-03', 'microneedling-cheveux': 'micro-meso-cheveux', 'radiofrequence-fractionnee': 'radiofrequence-corps' };
 export const soinImage = (s) => CARD_IMAGES[s.slug] || s.heroImage?.src || s.heroImage;

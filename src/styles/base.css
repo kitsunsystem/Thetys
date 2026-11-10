@@ -151,6 +151,10 @@ a {
 p {
   margin: 0 0 1.1em;
 }
+figure,
+blockquote {
+  margin: 0;
+}
 p:last-child {
   margin-bottom: 0;
 }

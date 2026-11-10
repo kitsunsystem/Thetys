@@ -212,7 +212,7 @@
     "image": "carte-cadeau-thetys",
     "options": [
       { "title": "Biologique Recherche", "image": "photo-soin-visage-br", "text": "Au Centre Thetys, les soins du visage Biologique Recherche apportent des solutions sur-mesure, quelle que soit votre problématique cutanée.", "prices": [ { "label": "Soin visage 1h", "price": "145 €" }, { "label": "Soin visage 1h30", "price": "189 €" } ] },
-      { "title": "Soin Thalgo", "image": "thalgo", "text": "Thalgo la marque Marine sur la Côte d’Azur vous apporte des solutions sur-mesure, quelle que soit votre problématique cutanée.", "prices": [ { "label": "Soin fondamental", "price": "85 €" }, { "label": "Soin HyaluroproCollagène 1H", "price": "96 €" }, { "label": "Soin Silicium 1h", "price": "115 €" }, { "label": "Soin Excellence", "price": "129 €" } ] },
+      { "title": "Soin Thalgo", "image": "thalgo-00-1", "text": "Thalgo la marque Marine sur la Côte d’Azur vous apporte des solutions sur-mesure, quelle que soit votre problématique cutanée.", "prices": [ { "label": "Soin fondamental", "price": "85 €" }, { "label": "Soin HyaluroproCollagène 1H", "price": "96 €" }, { "label": "Soin Silicium 1h", "price": "115 €" }, { "label": "Soin Excellence", "price": "129 €" } ] },
       { "title": "Montant libre", "image": "carte-cadeau-thetys-1", "text": "La Carte Cadeau « Montant Libre » vient en déduction du montant de la prestation choisie par la personne destinataire de la carte.", "prices": [] }
     ],
     "treatmentsTitle": "Choisissez le meilleur traitement à (s’)offrir",

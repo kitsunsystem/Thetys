@@ -23,7 +23,7 @@ function announcement() {
   const a = site.announcement;
   if (!a || !a.text) return '';
   return html`<div class="announce" data-announce data-until="${esc(a.until || '')}" hidden>
-    <a href="${esc(a.href)}"><em class="sr-only">Offre du moment : </em>${a.text}<span aria-hidden="true">${icon('arrow')}</span></a>
+    <a href="${esc(a.href)}"><span class="announce__text"><em class="sr-only">Offre du moment : </em>${a.text}</span><span class="announce__go" aria-hidden="true">${icon('arrow')}</span></a>
     <button class="announce__close" type="button" aria-label="Fermer l’annonce">${icon('close')}</button>
   </div>`;
 }

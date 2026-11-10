@@ -121,16 +121,19 @@ function emit(urlPath, page, { priority = 0.6, sitemapIt = true, file } = {}) {
 
 // Résultats : avant / après repérés dans les fiches et besoins
 function collectResults() {
-  const seen = new Set(pageData.results.featured.map((x) => imageId(x.image)));
+  const featured = pageData.results.featured;
+  const seen = new Set(featured.map((x) => imageId(x.image)));
+  const featuredHrefs = new Set(featured.map((x) => x.href));
   const extra = [];
   const push = (ref, label, href) => {
     const id = imageId(ref);
     if (!id || seen.has(id)) return;
-    if (!/avant|apres|après/.test(id)) return;
-    if (/^(avant|apres)-(epilation|electrolyse)|^(avant|apres)-electrolyse|plasma-(avant|apres)|hifu-(avant|apres)-\d|radiofrequence-(avant|apres)/.test(id)) return;
+    // uniquement de vrais montages avant / après
+    if (!(/avant/.test(id) && /apres/.test(id))) return;
+    if (featuredHrefs.has(href)) return;
     if (images[id].w < 500) return;
     seen.add(id);
-    extra.push({ image: id, label, href });
+    extra.push({ image: id, label: label.replace(/\s*\|\s*/g, ', '), href });
   };
   const walk = (sections, label, href) => {
     for (const s of sections || []) {

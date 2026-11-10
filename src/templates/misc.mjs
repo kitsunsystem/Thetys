@@ -288,7 +288,7 @@ export function cosmetics() {
 export function giftcard() {
   const g = pages.giftcard;
   const body = html`
-  <section class="page-hero gift-hero" data-hero>
+  <section class="page-hero page-hero--media gift-hero" data-hero>
     <div class="wrap page-hero__grid">
       <div class="page-hero__text">
         ${crumbs([['Carte cadeau', '/carte-cadeau/']])}
@@ -575,7 +575,7 @@ export function offerPage(o) {
     </section>`);
   }
   const body = html`
-  <section class="page-hero offer-hero" data-hero data-until="${o.until || ''}">
+  <section class="page-hero page-hero--media offer-hero" data-hero data-until="${o.until || ''}">
     <div class="wrap page-hero__grid">
       <div class="page-hero__text">
         ${crumbs(cr)}
