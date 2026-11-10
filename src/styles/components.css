@@ -1697,3 +1697,8 @@ html.is-arriving .curtain {
     display: none;
   }
 }
+
+.is-menu-open .announce {
+  opacity: 0 !important;
+  pointer-events: none;
+}
