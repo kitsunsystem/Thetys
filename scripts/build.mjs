@@ -187,7 +187,7 @@ for (const id of used) {
 }
 fs.mkdirSync(path.join(DIST, 'media/video'), { recursive: true });
 let vidBytes = 0;
-for (const id of [...getUsedVideos(), 'hero-ambiance', 'film-biologique-recherche']) {
+for (const id of new Set([...getUsedVideos(), 'hero-ambiance', 'film-biologique-recherche'])) {
   const src = path.join(ROOT, 'media/video', `${id}.mp4`);
   if (fs.existsSync(src)) { fs.copyFileSync(src, path.join(DIST, 'media/video', `${id}.mp4`)); vidBytes += fs.statSync(src).size; }
 }

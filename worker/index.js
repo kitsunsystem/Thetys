@@ -58,6 +58,14 @@ export default {
     }
     if (url.pathname.startsWith('/en/')) return Response.redirect(new URL('/', url.origin).toString(), 301);
 
-    return env.ASSETS.fetch(request);
+    const res = await env.ASSETS.fetch(request);
+    // adresse de démonstration (*.workers.dev) : ne pas indexer, pour ne pas
+    // concurrencer le site officiel dans les moteurs de recherche
+    if (url.hostname.endsWith('.workers.dev')) {
+      const out = new Response(res.body, res);
+      out.headers.set('X-Robots-Tag', 'noindex, nofollow');
+      return out;
+    }
+    return res;
   },
 };
